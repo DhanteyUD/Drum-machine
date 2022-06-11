@@ -117,6 +117,20 @@ body {
   box-sizing: border-box;
 }
 
+.inner-container .controls-container #display-off {
+  width: 235px;
+  border-radius: 2px;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(35, 35, 35);
+  outline: 4px solid rgb(35, 35, 35);
+  background-color: rgb(85, 86, 87);
+  margin: 15px auto;
+  padding: 15px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 .footer {
   width: 300px;
   float: left;
@@ -198,6 +212,9 @@ body {
     padding-left: 2px;
   }
   .inner-container .controls-container #display {
+    width: 100%;
+  }
+  .inner-container .controls-container #display-off {
     width: 100%;
   }
   .inner-container .controls-container .control p {

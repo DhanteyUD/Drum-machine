@@ -2,9 +2,6 @@ import React from 'react';
 import DrumPad from './drumPad';
 
 class PadBank extends React.Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     let padBank;
     if (this.props.power) {

@@ -115,7 +115,11 @@ class App extends React.Component {
         </div>
 
         <div className="controls-container">
-          <p id="display">{this.state.display}</p>
+          {!this.state.power ? (
+            <p id="display-off">{this.state.display}</p>
+          ) : (
+            <p id="display">{this.state.display}</p>
+          )}
           <div className="volume-slider">
             <input
               max="1"
