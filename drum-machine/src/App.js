@@ -7,7 +7,7 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      power: true,
+      power: false,
       display: String.fromCharCode(160),
       currentPadBank: bankOne,
       currentPadBankId: 'Heater Kit',
