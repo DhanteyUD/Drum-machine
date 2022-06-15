@@ -2,4 +2,4 @@
 
 ![Drum Machine](screen.png)
 
-> Beware, could be very addictive 😜
+> Beware! could be very addictive 😜
