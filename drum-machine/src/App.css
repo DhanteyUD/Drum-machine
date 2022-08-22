@@ -204,7 +204,9 @@ body {
   }
   .inner-container .pad-bank {
     height: auto;
-    width: 84%;
+    width: 80%;
+    position: relative;
+    left: 2%;
   }
   .inner-container .pad-bank .drum-pad {
     width: 87px;
