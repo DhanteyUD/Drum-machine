@@ -4,4 +4,4 @@ Drum machine is an electronic musical instrument that creates percussion sounds,
 
 ![Drum Machine](screen.png)
 
-> Beware! could be very addictive 😜
+> Beware! could be very addictive 🥁 😜
